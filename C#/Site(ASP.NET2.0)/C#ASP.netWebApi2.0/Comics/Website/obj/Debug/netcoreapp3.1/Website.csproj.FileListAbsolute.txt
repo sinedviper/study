@@ -1,0 +1,262 @@
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\Website.exe
+C:\Users\adwrp\Desktop\Final\Comics\Website\obj\Debug\netcoreapp3.1\Website.csprojAssemblyReference.cache
+C:\Users\adwrp\Desktop\Final\Comics\Website\obj\Debug\netcoreapp3.1\Website.RazorAssemblyInfo.cache
+C:\Users\adwrp\Desktop\Final\Comics\Website\obj\Debug\netcoreapp3.1\Website.RazorAssemblyInfo.cs
+C:\Users\adwrp\Desktop\Final\Comics\Website\obj\Debug\netcoreapp3.1\Website.AssemblyInfoInputs.cache
+C:\Users\adwrp\Desktop\Final\Comics\Website\obj\Debug\netcoreapp3.1\Website.AssemblyInfo.cs
+C:\Users\adwrp\Desktop\Final\Comics\Website\obj\Debug\netcoreapp3.1\Website.TagHelpers.input.cache
+C:\Users\adwrp\Desktop\Final\Comics\Website\obj\Debug\netcoreapp3.1\Website.TagHelpers.output.cache
+C:\Users\adwrp\Desktop\Final\Comics\Website\obj\Debug\netcoreapp3.1\Website.RazorCoreGenerate.cache
+C:\Users\adwrp\Desktop\Final\Comics\Website\obj\Debug\netcoreapp3.1\Razor\Views\Comics\Create.cshtml.g.cs
+C:\Users\adwrp\Desktop\Final\Comics\Website\obj\Debug\netcoreapp3.1\Razor\Views\Comics\Delete.cshtml.g.cs
+C:\Users\adwrp\Desktop\Final\Comics\Website\obj\Debug\netcoreapp3.1\Razor\Views\Comics\Details.cshtml.g.cs
+C:\Users\adwrp\Desktop\Final\Comics\Website\obj\Debug\netcoreapp3.1\Razor\Views\Comics\Edit.cshtml.g.cs
+C:\Users\adwrp\Desktop\Final\Comics\Website\obj\Debug\netcoreapp3.1\Razor\Views\Comics\Index.cshtml.g.cs
+C:\Users\adwrp\Desktop\Final\Comics\Website\obj\Debug\netcoreapp3.1\Razor\Views\Genres\Create.cshtml.g.cs
+C:\Users\adwrp\Desktop\Final\Comics\Website\obj\Debug\netcoreapp3.1\Razor\Views\Genres\Delete.cshtml.g.cs
+C:\Users\adwrp\Desktop\Final\Comics\Website\obj\Debug\netcoreapp3.1\Razor\Views\Genres\Details.cshtml.g.cs
+C:\Users\adwrp\Desktop\Final\Comics\Website\obj\Debug\netcoreapp3.1\Razor\Views\Genres\Edit.cshtml.g.cs
+C:\Users\adwrp\Desktop\Final\Comics\Website\obj\Debug\netcoreapp3.1\Razor\Views\Genres\Index.cshtml.g.cs
+C:\Users\adwrp\Desktop\Final\Comics\Website\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\adwrp\Desktop\Final\Comics\Website\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\adwrp\Desktop\Final\Comics\Website\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\adwrp\Desktop\Final\Comics\Website\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\adwrp\Desktop\Final\Comics\Website\obj\Debug\netcoreapp3.1\Razor\Views\Studios\Create.cshtml.g.cs
+C:\Users\adwrp\Desktop\Final\Comics\Website\obj\Debug\netcoreapp3.1\Razor\Views\Studios\Delete.cshtml.g.cs
+C:\Users\adwrp\Desktop\Final\Comics\Website\obj\Debug\netcoreapp3.1\Razor\Views\Studios\Details.cshtml.g.cs
+C:\Users\adwrp\Desktop\Final\Comics\Website\obj\Debug\netcoreapp3.1\Razor\Views\Studios\Edit.cshtml.g.cs
+C:\Users\adwrp\Desktop\Final\Comics\Website\obj\Debug\netcoreapp3.1\Razor\Views\Studios\Index.cshtml.g.cs
+C:\Users\adwrp\Desktop\Final\Comics\Website\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\adwrp\Desktop\Final\Comics\Website\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\adwrp\Desktop\Final\Comics\Website\obj\Debug\netcoreapp3.1\Website.RazorTargetAssemblyInfo.cache
+C:\Users\adwrp\Desktop\Final\Comics\Website\obj\Debug\netcoreapp3.1\Website.RazorTargetAssemblyInfo.cs
+C:\Users\adwrp\Desktop\Final\Comics\Website\obj\Debug\netcoreapp3.1\staticwebassets\Website.StaticWebAssets.Manifest.cache
+C:\Users\adwrp\Desktop\Final\Comics\Website\obj\Debug\netcoreapp3.1\staticwebassets\Website.StaticWebAssets.xml
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\obj\Debug\netcoreapp3.1\Website.csproj.CopyComplete
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\System.Private.ServiceModel.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\System.ServiceModel.Duplex.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\System.ServiceModel.Http.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\System.ServiceModel.NetTcp.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\Website.deps.json
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\Website.runtimeconfig.json
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\Website.runtimeconfig.dev.json
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\Website.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\Website.pdb
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\Website.Views.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\Website.Views.pdb
+C:\Users\adwrp\Desktop\Final\Comics\Website\bin\Debug\netcoreapp3.1\System.ServiceModel.Security.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\obj\Debug\netcoreapp3.1\Website.csproj.CoreCompileInputs.cache
+C:\Users\adwrp\Desktop\Final\Comics\Website\obj\Debug\netcoreapp3.1\Website.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adwrp\Desktop\Final\Comics\Website\obj\Debug\netcoreapp3.1\Website.Views.pdb
+C:\Users\adwrp\Desktop\Final\Comics\Website\obj\Debug\netcoreapp3.1\Website.dll
+C:\Users\adwrp\Desktop\Final\Comics\Website\obj\Debug\netcoreapp3.1\Website.pdb
+C:\Users\adwrp\Desktop\Final\Comics\Website\obj\Debug\netcoreapp3.1\Website.genruntimeconfig.cache
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\Website.exe
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\Website.deps.json
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\Website.runtimeconfig.json
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\Website.runtimeconfig.dev.json
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\Website.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\Website.pdb
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\Website.Views.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\Website.Views.pdb
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\System.Private.ServiceModel.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\System.ServiceModel.Duplex.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\System.ServiceModel.Http.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\System.ServiceModel.NetTcp.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\System.ServiceModel.Security.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Tasks\Распределенные системы\Comics\Website\obj\Debug\netcoreapp3.1\Website.csprojAssemblyReference.cache
+F:\Tasks\Распределенные системы\Comics\Website\obj\Debug\netcoreapp3.1\Website.AssemblyInfoInputs.cache
+F:\Tasks\Распределенные системы\Comics\Website\obj\Debug\netcoreapp3.1\Website.AssemblyInfo.cs
+F:\Tasks\Распределенные системы\Comics\Website\obj\Debug\netcoreapp3.1\Website.csproj.CoreCompileInputs.cache
+F:\Tasks\Распределенные системы\Comics\Website\obj\Debug\netcoreapp3.1\Website.MvcApplicationPartsAssemblyInfo.cache
+F:\Tasks\Распределенные системы\Comics\Website\obj\Debug\netcoreapp3.1\Website.RazorAssemblyInfo.cache
+F:\Tasks\Распределенные системы\Comics\Website\obj\Debug\netcoreapp3.1\Website.RazorAssemblyInfo.cs
+F:\Tasks\Распределенные системы\Comics\Website\obj\Debug\netcoreapp3.1\Website.TagHelpers.input.cache
+F:\Tasks\Распределенные системы\Comics\Website\obj\Debug\netcoreapp3.1\Website.TagHelpers.output.cache
+F:\Tasks\Распределенные системы\Comics\Website\obj\Debug\netcoreapp3.1\Website.RazorCoreGenerate.cache
+F:\Tasks\Распределенные системы\Comics\Website\obj\Debug\netcoreapp3.1\Razor\Views\Comics\Create.cshtml.g.cs
+F:\Tasks\Распределенные системы\Comics\Website\obj\Debug\netcoreapp3.1\Razor\Views\Comics\Delete.cshtml.g.cs
+F:\Tasks\Распределенные системы\Comics\Website\obj\Debug\netcoreapp3.1\Razor\Views\Comics\Details.cshtml.g.cs
+F:\Tasks\Распределенные системы\Comics\Website\obj\Debug\netcoreapp3.1\Razor\Views\Comics\Edit.cshtml.g.cs
+F:\Tasks\Распределенные системы\Comics\Website\obj\Debug\netcoreapp3.1\Razor\Views\Comics\Index.cshtml.g.cs
+F:\Tasks\Распределенные системы\Comics\Website\obj\Debug\netcoreapp3.1\Razor\Views\Genres\Create.cshtml.g.cs
+F:\Tasks\Распределенные системы\Comics\Website\obj\Debug\netcoreapp3.1\Razor\Views\Genres\Delete.cshtml.g.cs
+F:\Tasks\Распределенные системы\Comics\Website\obj\Debug\netcoreapp3.1\Razor\Views\Genres\Details.cshtml.g.cs
+F:\Tasks\Распределенные системы\Comics\Website\obj\Debug\netcoreapp3.1\Razor\Views\Genres\Edit.cshtml.g.cs
+F:\Tasks\Распределенные системы\Comics\Website\obj\Debug\netcoreapp3.1\Razor\Views\Genres\Index.cshtml.g.cs
+F:\Tasks\Распределенные системы\Comics\Website\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Tasks\Распределенные системы\Comics\Website\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Tasks\Распределенные системы\Comics\Website\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Tasks\Распределенные системы\Comics\Website\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Tasks\Распределенные системы\Comics\Website\obj\Debug\netcoreapp3.1\Razor\Views\Studios\Create.cshtml.g.cs
+F:\Tasks\Распределенные системы\Comics\Website\obj\Debug\netcoreapp3.1\Razor\Views\Studios\Delete.cshtml.g.cs
+F:\Tasks\Распределенные системы\Comics\Website\obj\Debug\netcoreapp3.1\Razor\Views\Studios\Details.cshtml.g.cs
+F:\Tasks\Распределенные системы\Comics\Website\obj\Debug\netcoreapp3.1\Razor\Views\Studios\Edit.cshtml.g.cs
+F:\Tasks\Распределенные системы\Comics\Website\obj\Debug\netcoreapp3.1\Razor\Views\Studios\Index.cshtml.g.cs
+F:\Tasks\Распределенные системы\Comics\Website\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Tasks\Распределенные системы\Comics\Website\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Tasks\Распределенные системы\Comics\Website\obj\Debug\netcoreapp3.1\Website.RazorTargetAssemblyInfo.cache
+F:\Tasks\Распределенные системы\Comics\Website\obj\Debug\netcoreapp3.1\Website.RazorTargetAssemblyInfo.cs
+F:\Tasks\Распределенные системы\Comics\Website\obj\Debug\netcoreapp3.1\Website.Views.pdb
+F:\Tasks\Распределенные системы\Comics\Website\obj\Debug\netcoreapp3.1\Website.csproj.CopyComplete
+F:\Tasks\Распределенные системы\Comics\Website\obj\Debug\netcoreapp3.1\staticwebassets\Website.StaticWebAssets.Manifest.cache
+F:\Tasks\Распределенные системы\Comics\Website\obj\Debug\netcoreapp3.1\staticwebassets\Website.StaticWebAssets.xml
+F:\Tasks\Распределенные системы\Comics\Website\obj\Debug\netcoreapp3.1\Website.dll
+F:\Tasks\Распределенные системы\Comics\Website\obj\Debug\netcoreapp3.1\Website.pdb
+F:\Tasks\Распределенные системы\Comics\Website\obj\Debug\netcoreapp3.1\Website.genruntimeconfig.cache

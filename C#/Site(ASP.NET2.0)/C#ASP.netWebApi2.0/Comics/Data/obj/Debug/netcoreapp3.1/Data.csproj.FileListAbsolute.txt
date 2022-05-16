@@ -1,0 +1,30 @@
+C:\Users\adwrp\Desktop\Final\Comics\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\adwrp\Desktop\Final\Comics\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\adwrp\Desktop\Final\Comics\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Users\adwrp\Desktop\Final\Comics\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\adwrp\Desktop\Final\Comics\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\adwrp\Desktop\Final\Comics\Data\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\adwrp\Desktop\Final\Comics\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\Users\adwrp\Desktop\Final\Comics\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\Users\adwrp\Desktop\Final\Comics\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\adwrp\Desktop\Final\Comics\Data\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\adwrp\Desktop\Final\Comics\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\adwrp\Desktop\Final\Comics\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+C:\Users\adwrp\Desktop\Final\Comics\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\adwrp\Desktop\Final\Comics\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\adwrp\Desktop\Final\Comics\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
+F:\Tasks\Распределенные системы\Comics\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+F:\Tasks\Распределенные системы\Comics\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+F:\Tasks\Распределенные системы\Comics\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+F:\Tasks\Распределенные системы\Comics\Data\bin\Debug\netcoreapp3.1\Data.dll
+F:\Tasks\Распределенные системы\Comics\Data\bin\Debug\netcoreapp3.1\Data.pdb
+F:\Tasks\Распределенные системы\Comics\Data\bin\Debug\netcoreapp3.1\Models.dll
+F:\Tasks\Распределенные системы\Comics\Data\bin\Debug\netcoreapp3.1\Models.pdb
+F:\Tasks\Распределенные системы\Comics\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+F:\Tasks\Распределенные системы\Comics\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+F:\Tasks\Распределенные системы\Comics\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+F:\Tasks\Распределенные системы\Comics\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+F:\Tasks\Распределенные системы\Comics\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+F:\Tasks\Распределенные системы\Comics\Data\obj\Debug\netcoreapp3.1\Data.dll
+F:\Tasks\Распределенные системы\Comics\Data\obj\Debug\netcoreapp3.1\Data.pdb
+F:\Tasks\Распределенные системы\Comics\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache

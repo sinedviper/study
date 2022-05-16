@@ -1,0 +1,55 @@
+﻿@model Website.Models.ComicsViewModel
+
+@{
+    ViewData["Title"] = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Delete</h1>
+
+<h3>Are you sure you want to delete this?</h3>
+<h4>Comics</h4>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Genre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Studio)
+            </th>
+        </tr>
+    <tbody>
+        <tr>
+            <th>
+                @Html.DisplayFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayFor(model => model.Genre.Title)
+            </th>
+            <th>
+                @Html.DisplayFor(model => model.Studio.Title)
+            </th>
+        </tr>
+    </tbody>
+</table>
+
+<form asp-action="Delete">
+    <input type="submit" value="Delete" class="btn btn-danger" /> |
+    <a asp-action="Index">Back to List</a>
+</form>

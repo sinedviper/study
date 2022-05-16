@@ -1,0 +1,212 @@
+/**************************НАЧАЛО**********************************************/
+	@charset "utf-8";
+	* { -moz-box-sizing: border-box; 
+        -webkit-box-sizing: border-box; 
+        box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+	}
+	body {
+	    background-image: url(img/picture1.png);
+        background-color: #CFCFCF;
+        background-repeat: x,y;
+	    font-family: "Open Sans";
+	    color: white;
+	 }
+/**************************ВОЗВРАТ К НАЧАЛУ ЭКРАНА*****************************/
+	/*Здесь описываем кнопку возврата вверх, то есть ее стиль*/
+	.scrollTop{ 
+	 	display:none; 
+	 	z-index:9999; 
+	 	position:fixed;
+	 	bottom: 1.25em; 
+	 	left: 95%; 
+	 	top:93%;
+	 	width: 2.5em; 
+	 	height: 2.5em;
+	 	background: url('img/superproblema.png') 0 0 no-repeat;
+	}
+/**************************МЕНЮ************************************************/
+        .menu{    
+		    width: 85%;
+		    -webkit-box-shadow: 0px 5px 10px 0px rgba(50, 50, 50, 0.75);
+            -moz-box-shadow:    0px 5px 10px 0px rgba(50, 50, 50, 0.75);
+            box-shadow:         0px 5px 10px 0px rgba(50, 50, 50, 0.75);
+        }
+		/*убираем маркер списка и все отступы*/
+		.menu > ul {
+		        list-style: none;
+		        margin: 0px;
+		        padding: 0px;
+		        background-color: #E60020;
+		        /*используем для выравнивая текста по центру*/
+		        text-align: center;
+		        opacity: 0.95;
+		}
+		/*делаем что бы меню было вытянуто на всю строку, но они по прежнему будут блочными элементами*/
+		.menu > ul > li {
+			color: white;
+		    display: inline-block;
+		    border-left: 1px solid rgba(18, 18, 18, 0.5);
+		    border-right: 1px solid rgba(18, 18, 18, 0.5);
+		   margin-bottom: 10px;
+		   margin-top: 10px;
+		}
+		/*Задаем стиль кнопкам*/
+		.menu > ul > li > a {
+		    /*задали что бы можно было нажать не только на текст, а на весь квадрат*/
+		    display: block;
+		    padding: 0 40px;
+		    text-decoration: none;
+		    color: #121212;
+		    /*это позволяет выровнять текст блока по высоте и по центру*/
+		    line-height: 45px;
+		    font-family: "Open Sans";
+		    font-size: 1.2em;
+		    position: relative;
+		}
+		.menu > ul > li:first-child {
+		    border-left-color: transparent;
+		}
+		.menu > ul > li:last-child {
+		    border-right-color: transparent;
+		}
+		/*Задаем стиль подчеркиванию, что бы медленно появлялось и изчезало*/
+		.menu > ul > li > a:after {
+		    content: ' ';
+		    position: absolute;
+		    height: 2px;
+		    background-color: transparent;
+		    bottom: 10px;
+		    left: 30px;
+		    right: 30px;
+		    transition: background-color 0.6s ease;
+		}
+		/*задаем цвет появления при наведении курсором*/
+		.menu > ul > li > a:hover:after {
+		    background-color: #121212;
+		}
+/**************************ВЕРХ САЙТА******************************************/
+	/*описываем общие параметры верха*/
+	header { 
+		background-color: #E60020;
+		background-image: url(img/fon.jpg);
+		color: white;
+		padding-top:2%;
+		padding-bottom: 2%;
+		height:calc(4%-100px);
+		text-shadow: 0px 5px 10px rgba(50, 50, 50, 0.75);
+		margin-bottom: 1%;
+		-webkit-box-shadow: 0px 5px 10px 0px rgba(50, 50, 50, 0.75);
+        -moz-box-shadow:    0px 5px 10px 0px rgba(50, 50, 50, 0.75);
+        box-shadow:         0px 5px 10px 0px rgba(50, 50, 50, 0.75);
+	}
+	.verh {
+		display: block;
+		position: relative;
+	    text-align: center;
+	    width:85%;
+	    right: -7.5%;
+	}
+	.logotip {
+		margin-left: 5%;
+		text-align: left;
+		color: #E60020;
+	    text-shadow: -2px -2px 0 #363636;
+		font-family: "Open Sans";
+		font-size: 1.5em;
+	}
+/**************************НИЗ САЙТА*******************************************/
+	/*описываем общие параметры низа*/
+	footer{
+		display: block;
+		position: relative;
+		width: 85%;
+		background-image: url(img/fon.jpg);
+		background-color: #E60020;
+		margin-left: 7.5%;
+	    margin-top: 1%;
+	    padding: 1% 1% 1% 1%;
+		-webkit-box-shadow: 0px 5px 10px 0px rgba(50, 50, 50, 0.75);
+        -moz-box-shadow:    0px 5px 10px 0px rgba(50, 50, 50, 0.75);
+        box-shadow:         0px 5px 10px 0px rgba(50, 50, 50, 0.75);
+	}
+	.niz{
+		display: flex;
+		position: relative;
+		/*делает выравнивание по бокам блока*/
+		justify-content:space-between;
+	}
+	.footer {
+		font-weight: bold;
+	    font-family: "Open Sans";
+		color: #E60020;
+		text-shadow: -2px -2px 0 #363636;
+		font-size: 1.4em;
+	}
+	.icons {
+		color: #E60020;
+	    text-shadow: -2px -2px 0 #363636;
+	    padding-right: 1em;
+	}
+	.icons:hover {
+		color:#07FA00;
+	}
+/**************************СОДЕРЖАНИЕ******************************************/
+  .lodochka {
+  	font-size: 0.7em;
+	display: grid;
+	width: 85%;
+	margin-top: 1%;
+	background-color: #363636;
+	padding: 1em 1em 1em 1em ;
+	-webkit-box-shadow: 0px 5px 10px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow:    0px 5px 10px 0px rgba(50, 50, 50, 0.75);
+    box-shadow:         0px 5px 10px 0px rgba(50, 50, 50, 0.75);
+  }
+  .front{
+  	text-align: left;
+  	margin-left:2em;
+  	font-size: 1.5em;
+  }
+/**************************РАЗНОЕ**********************************************/
+ /*Здесь мы указываем что при выделение текста он будет становится определенного цвета*/
+	::selection{background:#07FA00; color:#A1FF9E}
+	::-moz-selection{background:#07FA00; color:#A1FF9E}
+	::-webkit-selection{background:#07FA00; color:#A1FF9E}
+	::-ms-selection{background:#07FA00; color:#A1FF9E}
+/**************************@MEDIA**********************************************/
+ @media (max-width: 576px){
+ 	.menu{
+ 		width: 100%;
+ 	}
+ 	.contacts{
+ 		width: 100%;
+ 	}
+ 	.lodochka{
+ 		width: 100%;
+ 	}
+ 	footer{
+ 		width: 100%;
+ 		margin-left: 0%;
+ 	}
+ 	.verh{
+ 		right:0%;
+ 		width: 100%;
+ 	}
+	.niz{
+		display: inline-grid;
+		/*делает выравнивание по бокам блока*/
+		justify-content:center;
+	}
+	.icons {
+	    padding-right: 1em;
+	    padding-left: 1em;
+	}
+	.menu > ul > li {
+		   display: block;
+		   border-left: none;
+		   border-right: none;
+		   margin-bottom: 5px;
+		   margin-top: 5px;
+		}}

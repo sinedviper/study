@@ -1,0 +1,28 @@
+C:\Users\adwrp\Desktop\Final\Comics\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\adwrp\Desktop\Final\Comics\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\adwrp\Desktop\Final\Comics\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\adwrp\Desktop\Final\Comics\Business\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\adwrp\Desktop\Final\Comics\Business\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\adwrp\Desktop\Final\Comics\Business\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\adwrp\Desktop\Final\Comics\Business\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\adwrp\Desktop\Final\Comics\Business\obj\Debug\netcoreapp3.1\Business.csprojAssemblyReference.cache
+C:\Users\adwrp\Desktop\Final\Comics\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\adwrp\Desktop\Final\Comics\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\adwrp\Desktop\Final\Comics\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\adwrp\Desktop\Final\Comics\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\adwrp\Desktop\Final\Comics\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\adwrp\Desktop\Final\Comics\Business\obj\Debug\netcoreapp3.1\Business.pdb
+F:\Tasks\Распределенные системы\Comics\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+F:\Tasks\Распределенные системы\Comics\Business\bin\Debug\netcoreapp3.1\Business.dll
+F:\Tasks\Распределенные системы\Comics\Business\bin\Debug\netcoreapp3.1\Business.pdb
+F:\Tasks\Распределенные системы\Comics\Business\bin\Debug\netcoreapp3.1\Data.dll
+F:\Tasks\Распределенные системы\Comics\Business\bin\Debug\netcoreapp3.1\Models.dll
+F:\Tasks\Распределенные системы\Comics\Business\bin\Debug\netcoreapp3.1\Data.pdb
+F:\Tasks\Распределенные системы\Comics\Business\bin\Debug\netcoreapp3.1\Models.pdb
+F:\Tasks\Распределенные системы\Comics\Business\obj\Debug\netcoreapp3.1\Business.csprojAssemblyReference.cache
+F:\Tasks\Распределенные системы\Comics\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+F:\Tasks\Распределенные системы\Comics\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+F:\Tasks\Распределенные системы\Comics\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+F:\Tasks\Распределенные системы\Comics\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+F:\Tasks\Распределенные системы\Comics\Business\obj\Debug\netcoreapp3.1\Business.dll
+F:\Tasks\Распределенные системы\Comics\Business\obj\Debug\netcoreapp3.1\Business.pdb
