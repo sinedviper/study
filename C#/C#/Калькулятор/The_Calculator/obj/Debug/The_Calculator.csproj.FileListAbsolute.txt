@@ -1,0 +1,14 @@
+C:\Users\Nikon\source\repos\The_Calculator\bin\Debug\The_Calculator.exe.config
+C:\Users\Nikon\source\repos\The_Calculator\bin\Debug\The_Calculator.exe
+C:\Users\Nikon\source\repos\The_Calculator\bin\Debug\The_Calculator.pdb
+C:\Users\Nikon\source\repos\The_Calculator\obj\Debug\The_Calculator.csprojAssemblyReference.cache
+C:\Users\Nikon\source\repos\The_Calculator\obj\Debug\The_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Nikon\source\repos\The_Calculator\obj\Debug\The_Calculator.exe
+C:\Users\Nikon\source\repos\The_Calculator\obj\Debug\The_Calculator.pdb
+C:\Users\thewo\Desktop\The_Calculator\bin\Debug\The_Calculator.exe.config
+C:\Users\thewo\Desktop\The_Calculator\bin\Debug\The_Calculator.exe
+C:\Users\thewo\Desktop\The_Calculator\bin\Debug\The_Calculator.pdb
+C:\Users\thewo\Desktop\The_Calculator\obj\Debug\The_Calculator.csprojAssemblyReference.cache
+C:\Users\thewo\Desktop\The_Calculator\obj\Debug\The_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\thewo\Desktop\The_Calculator\obj\Debug\The_Calculator.exe
+C:\Users\thewo\Desktop\The_Calculator\obj\Debug\The_Calculator.pdb

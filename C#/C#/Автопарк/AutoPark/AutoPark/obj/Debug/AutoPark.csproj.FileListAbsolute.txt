@@ -1,0 +1,21 @@
+C:\Users\thewo\source\repos\AutoPark\AutoPark\obj\Debug\AutoPark.csprojAssemblyReference.cache
+C:\Users\thewo\source\repos\AutoPark\AutoPark\obj\Debug\AutoPark.csproj.CoreCompileInputs.cache
+C:\Users\thewo\source\repos\AutoPark\AutoPark\bin\Debug\AutoPark.exe.config
+C:\Users\thewo\source\repos\AutoPark\AutoPark\bin\Debug\AutoPark.exe
+C:\Users\thewo\source\repos\AutoPark\AutoPark\bin\Debug\AutoPark.pdb
+C:\Users\thewo\source\repos\AutoPark\AutoPark\obj\Debug\AutoPark.exe
+C:\Users\thewo\source\repos\AutoPark\AutoPark\obj\Debug\AutoPark.pdb
+H:\Studing\C#\AutoPark\AutoPark\obj\Debug\AutoPark.csprojAssemblyReference.cache
+H:\Studing\C#\AutoPark\AutoPark\obj\Debug\AutoPark.csproj.CoreCompileInputs.cache
+H:\Studing\C#\AutoPark\AutoPark\obj\Debug\AutoPark.exe
+H:\Studing\C#\AutoPark\AutoPark\obj\Debug\AutoPark.pdb
+H:\Studing\C#\AutoPark\AutoPark\bin\Debug\AutoPark.exe.config
+H:\Studing\C#\AutoPark\AutoPark\bin\Debug\AutoPark.exe
+H:\Studing\C#\AutoPark\AutoPark\bin\Debug\AutoPark.pdb
+F:\Study\Course #1\Thirty trimester\Object-oriented programming 2\AutoPark\AutoPark\bin\Debug\AutoPark.exe.config
+F:\Study\Course #1\Thirty trimester\Object-oriented programming 2\AutoPark\AutoPark\bin\Debug\AutoPark.exe
+F:\Study\Course #1\Thirty trimester\Object-oriented programming 2\AutoPark\AutoPark\bin\Debug\AutoPark.pdb
+F:\Study\Course #1\Thirty trimester\Object-oriented programming 2\AutoPark\AutoPark\obj\Debug\AutoPark.csprojAssemblyReference.cache
+F:\Study\Course #1\Thirty trimester\Object-oriented programming 2\AutoPark\AutoPark\obj\Debug\AutoPark.csproj.CoreCompileInputs.cache
+F:\Study\Course #1\Thirty trimester\Object-oriented programming 2\AutoPark\AutoPark\obj\Debug\AutoPark.exe
+F:\Study\Course #1\Thirty trimester\Object-oriented programming 2\AutoPark\AutoPark\obj\Debug\AutoPark.pdb

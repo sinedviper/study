@@ -1,0 +1,30 @@
+H:\Studing\C#\Calculation\Calculation\bin\x64\Debug\Calculation.exe.config
+H:\Studing\C#\Calculation\Calculation\bin\x64\Debug\Calculation.exe
+H:\Studing\C#\Calculation\Calculation\bin\x64\Debug\Calculation.pdb
+H:\Studing\C#\Calculation\Calculation\obj\x64\Debug\Calculation.Form1.resources
+H:\Studing\C#\Calculation\Calculation\obj\x64\Debug\Calculation.Properties.Resources.resources
+H:\Studing\C#\Calculation\Calculation\obj\x64\Debug\Calculation.csproj.GenerateResource.cache
+H:\Studing\C#\Calculation\Calculation\obj\x64\Debug\Calculation.csproj.CoreCompileInputs.cache
+H:\Studing\C#\Calculation\Calculation\obj\x64\Debug\Calculation.exe
+H:\Studing\C#\Calculation\Calculation\obj\x64\Debug\Calculation.pdb
+H:\Studing\C#\Calculation\Calculation\obj\x64\Debug\Calculation.csprojAssemblyReference.cache
+C:\Users\Nikon\Desktop\Calculation\Calculation\bin\x64\Debug\Calculation.exe.config
+C:\Users\Nikon\Desktop\Calculation\Calculation\bin\x64\Debug\Calculation.exe
+C:\Users\Nikon\Desktop\Calculation\Calculation\bin\x64\Debug\Calculation.pdb
+C:\Users\Nikon\Desktop\Calculation\Calculation\obj\x64\Debug\Calculation.csprojAssemblyReference.cache
+C:\Users\Nikon\Desktop\Calculation\Calculation\obj\x64\Debug\Calculation.Form1.resources
+C:\Users\Nikon\Desktop\Calculation\Calculation\obj\x64\Debug\Calculation.Properties.Resources.resources
+C:\Users\Nikon\Desktop\Calculation\Calculation\obj\x64\Debug\Calculation.csproj.GenerateResource.cache
+C:\Users\Nikon\Desktop\Calculation\Calculation\obj\x64\Debug\Calculation.csproj.CoreCompileInputs.cache
+C:\Users\Nikon\Desktop\Calculation\Calculation\obj\x64\Debug\Calculation.exe
+C:\Users\Nikon\Desktop\Calculation\Calculation\obj\x64\Debug\Calculation.pdb
+F:\Study\Course #1\Thirty trimester\Object-oriented programming 2\Calculation\Calculation\bin\x64\Debug\Calculation.exe.config
+F:\Study\Course #1\Thirty trimester\Object-oriented programming 2\Calculation\Calculation\bin\x64\Debug\Calculation.exe
+F:\Study\Course #1\Thirty trimester\Object-oriented programming 2\Calculation\Calculation\bin\x64\Debug\Calculation.pdb
+F:\Study\Course #1\Thirty trimester\Object-oriented programming 2\Calculation\Calculation\obj\x64\Debug\Calculation.csprojAssemblyReference.cache
+F:\Study\Course #1\Thirty trimester\Object-oriented programming 2\Calculation\Calculation\obj\x64\Debug\Calculation.Form1.resources
+F:\Study\Course #1\Thirty trimester\Object-oriented programming 2\Calculation\Calculation\obj\x64\Debug\Calculation.Properties.Resources.resources
+F:\Study\Course #1\Thirty trimester\Object-oriented programming 2\Calculation\Calculation\obj\x64\Debug\Calculation.csproj.GenerateResource.cache
+F:\Study\Course #1\Thirty trimester\Object-oriented programming 2\Calculation\Calculation\obj\x64\Debug\Calculation.csproj.CoreCompileInputs.cache
+F:\Study\Course #1\Thirty trimester\Object-oriented programming 2\Calculation\Calculation\obj\x64\Debug\Calculation.exe
+F:\Study\Course #1\Thirty trimester\Object-oriented programming 2\Calculation\Calculation\obj\x64\Debug\Calculation.pdb
